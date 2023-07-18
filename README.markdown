@@ -7,3 +7,5 @@ your database schema and apply them in a predictable way on every server running
 the application.
 
 [Read the documentation of this bundle](https://symfony.com/doc/current/bundles/DoctrineMigrationsBundle/index.html).
+
+make new hmtl<>https://globalbrowser.com
